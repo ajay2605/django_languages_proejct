@@ -1,1 +1,1 @@
-web: gunicorn languagesproject.wsgi --log-file -
+web: gunicorn api_example_2.wsgi --log-file -
